@@ -1,0 +1,10 @@
+build/
+public/
+**/coverage/
+**/node_modules/
+**/*.min.js
+*.config.js
+*-config.js
+.*lintrc.js
+
+gatsby-browser.js
